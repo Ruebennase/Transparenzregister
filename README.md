@@ -12,7 +12,7 @@ In diesem Repository findest du:
 - Ein Konzept-Modell
 - Eine Inspiration für Projekt WBS (es wird aber vorgeschlagen iterativ/agil vorzugehen)
 - Eine Kontext-Sicht
-- 
+- Ein Beispiel-Event-Flow mit Beispiel-Event-Attributen
 
 ## Hinweis / Haftungsausschluss  
 Alle Angaben ohne Gewähr; keine Rechtsberatung. Die Inhalte dienen rein wissenschaftlichen oder informativen Zwecken und ersetzen keine individuelle Rechts- oder Fachberatung.
