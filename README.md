@@ -13,8 +13,7 @@ In diesem Repository findest du:
 Alle Angaben ohne Gewähr; keine Rechtsberatung. Die Inhalte dienen rein wissenschaftlichen oder informativen Zwecken und ersetzen keine individuelle Rechts- oder Fachberatung.
 
 ## Lizenz  
-Dieses Werk steht unter der MIT Lizenz  
-Copyright (c) 2025 all repository contributors
+Dieses Werk steht unter der MIT Lizenz.
 
 ## Mitmachen  
 Beiträge sind willkommen! Bitte eröffne Issues für Anmerkungen oder Vorschläge und sende Pull Requests für konkrete Verbesserungen.
