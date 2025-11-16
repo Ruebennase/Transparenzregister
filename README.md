@@ -7,7 +7,12 @@ Analysen zum eidgenössischen Gesetz über die Transparenz von juristischen Pers
 
 ## Inhalt dieses Repositories  
 In diesem Repository findest du:  
-- ... 
+- Ein Glossar der wichtigen Begriffe
+- Ein Glossarbasiertes Konzept-Modell
+- Ein Konzept-Modell
+- Eine Inspiration für Projekt WBS (es wird aber vorgeschlagen iterativ/agil vorzugehen)
+- Eine Kontext-Sicht
+- 
 
 ## Hinweis / Haftungsausschluss  
 Alle Angaben ohne Gewähr; keine Rechtsberatung. Die Inhalte dienen rein wissenschaftlichen oder informativen Zwecken und ersetzen keine individuelle Rechts- oder Fachberatung.
