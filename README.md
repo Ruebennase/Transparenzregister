@@ -6,7 +6,7 @@ Analysen zum eidgenössischen Gesetz über die Transparenz von juristischen Pers
 - [Vernehmlassungsvorlage zu Verordnungen über die Transparenz juristischer Personen und die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung](https://www.vbs.admin.ch/de/newnsb/p4lGLqowAyTAweIiDLtxs)  
 
 ## Inhalt dieses Repositories  
-In diesem Repository findest du:  
+In diesem Repository findest Du zunächst erste Überlegungen zur bankseitigen Adressierung des TJPG:  
 - Ein Glossar der wichtigen Begriffe
 - Ein Glossarbasiertes Konzept-Modell
 - Ein Konzept-Modell
