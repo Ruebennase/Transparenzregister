@@ -3,7 +3,7 @@ Analysen zum eidgenössischen Gesetz über die Transparenz von juristischen Pers
 
 ## Gesetzesgrundlage (Stand 14.Nov.2025)
 - [Gesetz über die Transparenz von juristischen Personen und die Feststellung der wirtschaftlich Berechtigten (TJPG)](https://www.fedlex.admin.ch/eli/fga/2025/2900/de) (Bundesrecht)  
-- [Vernehmlassungsvorlage zu Verordnungen über die Transparenz juristischer Personen und die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung](https://www.vbs.admin.ch/de/newnsb/p4lGLqowAyTAweIiDLtxs)  
+- [Vernehmlassungsvorlage zu Verordnungen über die Transparenz juristischer Personen und die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung (TJPV)](https://www.vbs.admin.ch/de/newnsb/p4lGLqowAyTAweIiDLtxs)  
 
 ## Inhalt dieses Repositories  
 In diesem Repository findest Du zunächst erste Überlegungen zur bankseitigen Adressierung des TJPG:  
