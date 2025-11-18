@@ -8,9 +8,8 @@ Analysen zum eidgenössischen Gesetz über die Transparenz von juristischen Pers
 ## Inhalt dieses Repositories  
 In diesem Repository findest Du zunächst erste Überlegungen zur bankseitigen Adressierung des TJPG:  
 - Ein Glossar der wichtigen Begriffe
-- Ein Glossarbasiertes Konzept-Modell
 - Ein Konzept-Modell
-- Eine Inspiration für Projekt WBS (es wird aber vorgeschlagen iterativ/agil vorzugehen)
+- Eine Inspiration für eine Projekt WBS (es wird vorgeschlagen iterativ/agil vorzugehen)
 - Eine Kontext-Sicht
 - Ein Beispiel-Event-Flow mit Beispiel-Event-Attributen
 
