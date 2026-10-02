@@ -26,4 +26,4 @@ Alle Angaben ohne Gewähr; keine Rechtsberatung. Die Inhalte dienen rein wissens
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
 ## Mitmachen  
-Beiträge sind willkommen! Bitte eröffne Issues für Anmerkungen oder Vorschläge und sende Pull Requests für konkrete Verbesserungen.
+Momentan sind nur Kommentare möglich.
